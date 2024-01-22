@@ -7,9 +7,10 @@ In this project, I developed a native application using Compose technology and C
 <!-- Screenshots -->
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/selincengiz41/cameraxAI/assets/60012262/ba46b6fd-3d78-435f-9bdc-4fae93631073" width="130" height="300"/>
+  <img src="https://github.com/selincengiz41/cameraxAI/assets/60012262/94b1436b-868a-4227-97de-534f2fcaf671" width="130" height="300"/>
   <img src="https://github.com/selincengiz41/cameraxAI/assets/60012262/ddf55a97-78fd-4e8e-91fe-96384a4c7552" width="130" height="300"/>
  
+
 
 </p>
 
